@@ -118,7 +118,10 @@ class Solution {
             map.put(s.charAt(j), j + 1);
         }
 
+        return ans;
     }
+
+
 }
 
 //leetcode submit region end(Prohibit modification and deletion)
